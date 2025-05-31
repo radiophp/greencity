@@ -1,0 +1,35 @@
+
+================ RESULTS ================
+ • VRF System XW-266 (₺7550.24, 3955.0 kWh/yr, score 5)
+ • Micro‑inverter KW-066 (₺9273.08, 6880.1 kWh/yr, score 3)
+ • Roof Insulation Kit XT-122 (₺6128.88, 2906.2 kWh/yr, score 4)
+ • Wall Insulation Panel PM-547 (₺5965.68, 2960.0 kWh/yr, score 4)
+ • Wall Insulation Panel QP-792 (₺4348.84, 2811.5 kWh/yr, score 3)
+ • Wall Insulation Panel BT-469 (₺3950.10, 2548.7 kWh/yr, score 5)
+ • Condensing Boiler UW-372 (₺5102.61, 6219.3 kWh/yr, score 5)
+ • Double‑Glazed Window GA-896 (₺3632.67, 2046.1 kWh/yr, score 4)
+ • Wall Insulation Panel KD-934 (₺2812.09, 3605.4 kWh/yr, score 3)
+ • High‑efficiency Motor VK-733 (₺5313.57, 2397.9 kWh/yr, score 4)
+ • VRF System MP-902 (₺7462.27, 4737.0 kWh/yr, score 5)
+ • Energy‑Mgmt Gateway NQ-572 (₺811.26, 488.1 kWh/yr, score 5)
+ • Radiant Heater TI-058 (₺12003.57, 6564.4 kWh/yr, score 4)
+ • Double‑Glazed Window CI-247 (₺3749.70, 2053.7 kWh/yr, score 4)
+ • Evaporative Cooler ND-217 (₺4196.53, 3037.7 kWh/yr, score 3)
+ • Solar Battery Storage FY-520 (₺16600.30, 8659.5 kWh/yr, score 4)
+ • VRF System HN-519 (₺7586.15, 3498.4 kWh/yr, score 5)
+ • Radiant Heater XH-621 (₺11127.42, 6360.3 kWh/yr, score 5)
+ • Variable‑speed Pump GJ-297 (₺3466.98, 2080.9 kWh/yr, score 4)
+ • High‑efficiency Motor GF-805 (₺5760.42, 2094.7 kWh/yr, score 5)
+ • Roof Insulation Kit SM-641 (₺1591.36, 1884.9 kWh/yr, score 5)
+ • Roof Insulation Kit VC-866 (₺3718.78, 3943.7 kWh/yr, score 3)
+ • Wall Insulation Panel LY-229 (₺3065.82, 2643.0 kWh/yr, score 3)
+ • Wall Insulation Panel TT-177 (₺3711.74, 3835.6 kWh/yr, score 5)
+ • Wall Insulation Panel BS-504 (₺6361.67, 2248.6 kWh/yr, score 5)
+ • Double‑Glazed Window YK-834 (₺4653.75, 3802.4 kWh/yr, score 3)
+-----------------------------------------
+Total devices:     26
+Total cost:        ₺149945.48
+Energy saved:      94263.1 kWh / year
+Σ(energy×score):   388199.2
+=========================================
+
