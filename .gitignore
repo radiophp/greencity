@@ -1,0 +1,13 @@
+# ─ Java/Eclipse ───────────────────────────
+/bin/
+/target/
+/*.class
+/.settings/
+/.project
+.classpath
+
+ 
+
+# ─ OS clutter ────────────────────────────
+.DS_Store
+Thumbs.db

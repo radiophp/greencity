@@ -1,0 +1,301 @@
+DeviceName,Category,CostTRY,EnergySaved_kWh,SustainabilityScore
+Heat Pump TG-117,Heating,26814.66,5338.2,1
+LED Panel Light FN-016,Lighting,1544.38,171.2,5
+Roof Insulation Kit TE-422,Insulation,11807.17,857.7,4
+Condensing Boiler WP-875,Heating,43924.63,3960.5,5
+Wall Insulation Panel QW-570,Insulation,4576.63,1512.9,3
+Efficient Refrigerator JL-813,Appliances,14228.07,746.5,1
+Solar Water Heater ES-139,Miscellaneous,6580.0,356.3,3
+Smart Street Lamp VU-409,Lighting,1591.08,444.9,2
+Occupancy Sensor XQ-117,Building Controls,4680.64,921.7,4
+Electric Vehicle Charger JZ-147,Miscellaneous,8680.48,134.1,2
+Variable‑speed Pump KP-425,Pumps & Motors,14251.6,1796.6,1
+Efficient Exhaust Fan TI-210,Ventilation,8998.59,1135.6,5
+VRF System XW-266,Cooling,7550.24,3955.0,5
+Heat‑recovery Ventilator PM-139,Ventilation,9913.17,511.3,2
+Smart Power Strip CM-077,Miscellaneous,1719.72,311.4,5
+Evaporative Cooler NP-997,Cooling,21781.49,3737.0,4
+Micro‑inverter XL-200,Solar PV,35911.76,5789.8,3
+Radiant Heater QF-980,Heating,14520.19,5848.4,2
+Heat‑recovery Ventilator SW-524,Ventilation,5596.25,322.6,4
+Micro‑inverter KW-066,Solar PV,9273.08,6880.1,3
+Efficient Refrigerator EL-422,Appliances,18657.15,526.7,5
+Heat Pump QO-007,Heating,14455.18,4141.7,4
+Induction Cooker XE-039,Appliances,16239.76,392.5,5
+Smart Thermostat EF-070,Building Controls,3057.95,155.2,4
+Heat‑recovery Ventilator BN-800,Ventilation,10507.65,724.9,5
+Dishwasher A+++ Class PQ-455,Appliances,18857.36,323.6,3
+Induction Cooker KR-237,Appliances,3769.5,539.5,5
+Heat Pump NN-130,Heating,14771.38,3352.4,4
+Efficient Exhaust Fan PZ-608,Ventilation,4433.29,1062.4,2
+Roof Insulation Kit XT-122,Insulation,6128.88,2906.2,4
+Efficient Exhaust Fan GX-068,Ventilation,1676.14,633.6,2
+Roof Insulation Kit TO-400,Insulation,13421.94,3663.8,5
+LED Tube PD-138,Lighting,2071.86,523.4,3
+Dishwasher A+++ Class GC-784,Appliances,13361.58,281.4,2
+Inverter AC Unit WA-739,Cooling,24759.23,4401.9,2
+Roof Insulation Kit UC-882,Insulation,12523.92,2111.1,4
+Efficient Refrigerator AF-389,Appliances,7384.69,695.3,4
+Efficient Exhaust Fan YC-919,Ventilation,4067.04,340.9,4
+Solar Battery Storage UL-918,Solar PV,16264.25,1546.2,4
+Smart Street Lamp JB-633,Lighting,2180.83,445.9,3
+Efficient Exhaust Fan RI-651,Ventilation,8381.24,692.9,2
+Solar Water Heater HO-024,Miscellaneous,6009.86,410.1,4
+Occupancy Sensor RN-797,Building Controls,5543.73,412.2,5
+Solar Panel VT-621,Solar PV,7318.97,3109.8,4
+Smart Power Strip LX-573,Miscellaneous,4296.7,131.2,1
+Condensing Boiler FU-645,Heating,41698.8,2288.8,2
+Energy‑Mgmt Gateway NO-374,Building Controls,6668.05,1081.2,4
+Efficient Exhaust Fan XT-422,Ventilation,8086.74,1195.6,5
+Energy‑Mgmt Gateway GL-723,Building Controls,7229.79,188.6,2
+Induction Cooker SS-045,Appliances,9776.05,325.8,4
+Variable‑speed Pump WT-303,Pumps & Motors,11795.18,2177.6,4
+Heat‑recovery Ventilator MH-436,Ventilation,9819.94,1141.4,4
+VRF System NX-560,Cooling,14858.24,4414.1,2
+LED Tube JF-373,Lighting,1979.22,507.6,3
+Condensing Boiler AO-936,Heating,36249.32,5736.4,1
+Efficient Refrigerator VQ-241,Appliances,19085.75,545.3,3
+Solar Panel PZ-771,Solar PV,22796.1,5713.7,4
+Solar Water Heater XJ-915,Miscellaneous,8390.43,183.6,3
+Smart Power Strip UO-056,Miscellaneous,1155.09,406.1,1
+High‑efficiency Motor CY-687,Pumps & Motors,7661.33,1914.3,3
+Solar Water Heater UM-853,Miscellaneous,2832.2,564.0,3
+Smart Thermostat TO-634,Building Controls,3140.1,636.3,3
+Double‑Glazed Window HP-855,Insulation,4079.26,1344.7,4
+Energy‑Mgmt Gateway TR-647,Building Controls,1469.98,343.8,2
+Wall Insulation Panel PM-547,Insulation,5965.68,2960.0,4
+Double‑Glazed Window FS-379,Insulation,10817.21,1170.4,5
+Occupancy Sensor SZ-521,Building Controls,2197.65,350.2,2
+Roof Insulation Kit SD-002,Insulation,14245.21,2732.5,4
+Heat Pump OM-410,Heating,42642.54,4605.2,1
+High‑efficiency Motor BQ-015,Pumps & Motors,5949.86,2486.6,1
+Efficient Exhaust Fan PU-254,Ventilation,5981.39,1318.2,4
+Wall Insulation Panel QP-792,Insulation,4348.84,2811.5,3
+Efficient Refrigerator OE-464,Appliances,3071.2,394.9,3
+Smart Thermostat RY-766,Building Controls,7522.41,567.7,5
+Dishwasher A+++ Class DG-107,Appliances,12913.27,850.6,3
+Smart Thermostat MH-425,Building Controls,3951.86,757.8,4
+Solar Battery Storage GC-985,Solar PV,57342.46,8996.7,5
+Wall Insulation Panel BT-469,Insulation,3950.1,2548.7,5
+Smart Thermostat MK-311,Building Controls,3763.84,645.0,4
+Heat‑recovery Ventilator LI-394,Ventilation,6757.64,1484.6,5
+Occupancy Sensor BN-644,Building Controls,1171.6,393.8,2
+Double‑Glazed Window WM-067,Insulation,11082.07,1587.6,3
+Efficient Exhaust Fan CZ-941,Ventilation,10187.15,847.9,3
+Efficient Exhaust Fan KM-441,Ventilation,3258.59,979.2,2
+Condensing Boiler UW-372,Heating,5102.61,6219.3,5
+Solar Water Heater MD-535,Miscellaneous,5662.59,300.4,3
+Dishwasher A+++ Class GJ-843,Appliances,10777.08,926.4,4
+Variable‑speed Pump MA-558,Pumps & Motors,13364.47,1268.7,5
+Smart Thermostat SK-614,Building Controls,7778.27,472.4,4
+Condensing Boiler WW-337,Heating,35376.07,7170.5,1
+Smart Power Strip GR-220,Miscellaneous,9794.21,468.2,1
+Smart Thermostat SX-072,Building Controls,3498.86,260.1,5
+Variable‑speed Pump EC-862,Pumps & Motors,13866.78,614.9,4
+Double‑Glazed Window GA-896,Insulation,3632.67,2046.1,4
+Electric Vehicle Charger QL-281,Miscellaneous,4154.59,315.8,2
+High‑efficiency Motor OZ-296,Pumps & Motors,5568.24,1545.0,1
+Solar Water Heater MX-276,Miscellaneous,3847.05,400.1,5
+Wall Insulation Panel TT-610,Insulation,9970.68,638.0,4
+LED Tube TC-271,Lighting,677.54,346.7,3
+Efficient Exhaust Fan VG-848,Ventilation,9262.84,640.3,1
+Smart Thermostat DZ-879,Building Controls,7764.34,985.0,3
+Condensing Boiler AN-466,Heating,28382.4,6845.7,3
+Radiant Heater GA-859,Heating,13854.69,1910.9,4
+Wall Insulation Panel KD-934,Insulation,2812.09,3605.4,3
+High‑efficiency Motor JY-655,Pumps & Motors,11445.79,2247.9,1
+Energy‑Mgmt Gateway KY-034,Building Controls,7644.0,1041.0,1
+Solar Battery Storage XQ-029,Solar PV,57246.58,7628.7,3
+Dishwasher A+++ Class QZ-039,Appliances,16272.12,324.4,5
+Dishwasher A+++ Class FW-319,Appliances,2549.62,879.6,2
+VRF System GE-600,Cooling,24434.59,1646.9,3
+Smart Street Lamp GD-410,Lighting,1341.38,249.1,5
+Condensing Boiler NY-078,Heating,25858.05,4477.3,1
+High‑bay LED WL-174,Lighting,2288.46,227.2,2
+Heat Pump HQ-539,Heating,26222.27,4449.2,5
+Variable‑speed Pump UC-685,Pumps & Motors,13251.4,1246.2,2
+High‑efficiency Motor VK-733,Pumps & Motors,5313.57,2397.9,4
+Heat Pump VC-078,Heating,27254.83,5312.0,5
+Efficient Exhaust Fan RK-894,Ventilation,11091.11,266.9,3
+Electric Vehicle Charger JP-262,Miscellaneous,1528.07,515.0,3
+Condensing Boiler OU-898,Heating,29542.93,5677.5,1
+Solar Water Heater VG-173,Miscellaneous,3728.33,53.4,2
+Solar Water Heater KD-607,Miscellaneous,2543.76,280.9,3
+Evaporative Cooler II-958,Cooling,7622.87,3919.5,1
+Condensing Boiler LL-642,Heating,25493.85,3743.6,1
+Wall Insulation Panel RM-603,Insulation,9590.89,526.9,4
+Efficient Refrigerator TH-144,Appliances,4760.75,602.7,2
+Efficient Exhaust Fan BW-009,Ventilation,10510.79,948.5,5
+High‑efficiency Motor HK-919,Pumps & Motors,7981.26,1817.1,3
+Condensing Boiler VG-553,Heating,17410.98,3706.8,3
+Inverter AC Unit NC-593,Cooling,22775.55,4203.4,2
+Efficient Refrigerator DF-676,Appliances,5600.06,806.9,4
+Energy‑Mgmt Gateway TL-956,Building Controls,5296.56,1050.7,3
+Evaporative Cooler BL-320,Cooling,16944.43,1965.8,4
+LED Panel Light JH-690,Lighting,1647.57,261.5,5
+Heat‑recovery Ventilator LV-634,Ventilation,2829.3,280.4,1
+Solar Battery Storage CQ-079,Solar PV,34299.7,5956.5,4
+Micro‑inverter KU-606,Solar PV,24071.06,3771.6,5
+High‑efficiency Motor GW-961,Pumps & Motors,3059.53,1759.9,3
+Wall Insulation Panel SK-593,Insulation,6585.17,3270.8,3
+Heat‑recovery Ventilator QL-331,Ventilation,3513.28,1432.0,4
+Efficient Refrigerator ZE-275,Appliances,11945.99,777.8,5
+LED Tube WQ-511,Lighting,1854.98,393.6,2
+Smart Thermostat KR-242,Building Controls,6189.46,593.8,5
+Induction Cooker ZU-916,Appliances,12482.34,524.5,3
+High‑efficiency Motor ZV-812,Pumps & Motors,10335.33,2223.1,5
+Radiant Heater VW-272,Heating,41212.25,2457.8,4
+Heat Pump VX-943,Heating,19958.46,4010.1,1
+Solar Panel AY-867,Solar PV,13430.38,3437.7,4
+VRF System MP-902,Cooling,7462.27,4737.0,5
+Efficient Exhaust Fan CH-304,Ventilation,9774.11,794.2,1
+Energy‑Mgmt Gateway NQ-572,Building Controls,811.26,488.1,5
+Variable‑speed Pump RC-905,Pumps & Motors,8595.26,2474.3,5
+High‑bay LED WB-337,Lighting,1149.9,87.2,2
+Radiant Heater TI-058,Heating,12003.57,6564.4,4
+Energy‑Mgmt Gateway ED-790,Building Controls,2251.46,970.2,1
+Micro‑inverter NZ-527,Solar PV,16319.59,3984.4,3
+Micro‑inverter DJ-878,Solar PV,26878.82,8795.0,4
+Occupancy Sensor YN-870,Building Controls,5137.66,1004.6,5
+Double‑Glazed Window CI-247,Insulation,3749.7,2053.7,4
+LED Tube PL-670,Lighting,1809.49,273.4,5
+Inverter AC Unit DP-700,Cooling,24130.66,2211.8,4
+Smart Power Strip PR-937,Miscellaneous,5952.26,341.2,4
+Solar Battery Storage HY-015,Solar PV,55331.3,2118.5,4
+Smart Thermostat ZH-941,Building Controls,6940.35,597.2,4
+Radiant Heater ZZ-675,Heating,16614.49,3449.7,2
+Evaporative Cooler ND-217,Cooling,4196.53,3037.7,3
+Energy‑Mgmt Gateway DW-037,Building Controls,4246.39,551.9,4
+Smart Power Strip DI-045,Miscellaneous,1719.18,506.0,5
+Smart Power Strip TD-588,Miscellaneous,5421.97,217.3,2
+Solar Battery Storage FY-520,Solar PV,16600.3,8659.5,4
+VRF System HN-519,Cooling,7586.15,3498.4,5
+Solar Battery Storage BW-097,Solar PV,20291.42,2844.3,5
+Variable‑speed Pump MQ-294,Pumps & Motors,12460.95,1807.0,3
+Smart Thermostat RE-443,Building Controls,1834.41,1047.6,3
+Micro‑inverter DJ-534,Solar PV,20443.47,3133.8,3
+LED Tube YW-499,Lighting,2108.3,563.6,3
+Efficient Refrigerator MN-430,Appliances,19041.57,579.6,2
+Dishwasher A+++ Class JB-486,Appliances,10735.27,606.2,1
+Variable‑speed Pump WS-734,Pumps & Motors,9413.66,728.2,5
+Roof Insulation Kit KL-586,Insulation,9749.08,950.3,3
+High‑efficiency Motor UI-971,Pumps & Motors,8618.59,1400.2,1
+Smart Street Lamp SU-518,Lighting,693.54,562.3,3
+Evaporative Cooler ZT-238,Cooling,17607.01,3718.5,3
+Smart Thermostat JR-957,Building Controls,6022.33,856.8,1
+Electric Vehicle Charger GR-952,Miscellaneous,987.87,314.2,5
+Electric Vehicle Charger DR-091,Miscellaneous,679.9,222.5,2
+Variable‑speed Pump KU-987,Pumps & Motors,2809.66,603.8,2
+Efficient Exhaust Fan ZM-394,Ventilation,6957.77,910.2,3
+Electric Vehicle Charger EG-529,Miscellaneous,3327.34,209.0,2
+Occupancy Sensor MO-972,Building Controls,4929.03,697.5,4
+Solar Panel HH-734,Solar PV,19847.97,4936.8,3
+Efficient Exhaust Fan YS-165,Ventilation,3818.55,1070.8,5
+Dishwasher A+++ Class GC-346,Appliances,4905.67,969.8,2
+High‑efficiency Motor MF-936,Pumps & Motors,13803.18,496.8,5
+Dishwasher A+++ Class TW-094,Appliances,17158.09,943.8,1
+High‑efficiency Motor ET-820,Pumps & Motors,5879.1,1626.1,3
+Double‑Glazed Window ZO-498,Insulation,7818.28,1174.8,3
+Solar Panel TQ-703,Solar PV,21931.31,6460.3,3
+VRF System WX-850,Cooling,21235.28,1413.0,2
+Occupancy Sensor YA-342,Building Controls,3173.3,740.7,5
+LED Tube QS-013,Lighting,1251.37,326.4,3
+Radiant Heater XH-621,Heating,11127.42,6360.3,5
+Micro‑inverter SX-788,Solar PV,47140.42,6506.7,5
+Radiant Heater LS-050,Heating,26905.97,4785.7,5
+Heat‑recovery Ventilator EW-467,Ventilation,6479.34,1368.6,4
+High‑bay LED DK-556,Lighting,1047.16,62.0,3
+Smart Street Lamp PB-309,Lighting,2362.62,88.0,4
+LED Tube KT-796,Lighting,1282.76,596.1,4
+Occupancy Sensor JR-656,Building Controls,3303.94,296.3,5
+Variable‑speed Pump SF-002,Pumps & Motors,10755.5,1497.8,5
+Variable‑speed Pump GJ-297,Pumps & Motors,3466.98,2080.9,4
+Smart Power Strip GB-546,Miscellaneous,8786.02,184.6,1
+High‑efficiency Motor GF-805,Pumps & Motors,5760.42,2094.7,5
+Solar Battery Storage PR-331,Solar PV,41651.47,2924.1,4
+Roof Insulation Kit OP-716,Insulation,9003.98,664.1,4
+High‑efficiency Motor SK-215,Pumps & Motors,5132.59,795.8,2
+Smart Thermostat OZ-512,Building Controls,2264.02,811.4,4
+Solar Panel NV-036,Solar PV,8135.57,1767.7,5
+Heat‑recovery Ventilator MW-390,Ventilation,11321.33,1450.7,1
+Smart Thermostat SS-323,Building Controls,2838.03,612.9,3
+Double‑Glazed Window JW-487,Insulation,11781.99,1620.8,3
+Micro‑inverter KO-212,Solar PV,56476.95,5717.3,4
+Roof Insulation Kit FF-525,Insulation,14236.77,1681.5,4
+Occupancy Sensor EU-174,Building Controls,7401.68,696.4,1
+Heat‑recovery Ventilator VB-800,Ventilation,2684.91,1019.9,1
+Inverter AC Unit FL-069,Cooling,27687.91,3500.9,1
+High‑bay LED AN-290,Lighting,2107.63,420.7,2
+Heat Pump NG-623,Heating,36797.45,2013.6,4
+Energy‑Mgmt Gateway GS-280,Building Controls,7940.06,814.9,1
+Condensing Boiler JO-001,Heating,24994.34,4320.4,3
+Smart Power Strip XX-296,Miscellaneous,5884.45,199.1,1
+Wall Insulation Panel OA-939,Insulation,9424.99,3132.9,5
+Variable‑speed Pump HO-586,Pumps & Motors,9027.31,1144.5,2
+Radiant Heater TI-020,Heating,29206.75,5490.1,5
+High‑efficiency Motor AH-943,Pumps & Motors,14234.86,1250.1,5
+Variable‑speed Pump UH-202,Pumps & Motors,6940.0,2024.6,2
+High‑efficiency Motor JC-947,Pumps & Motors,3329.01,492.1,4
+Energy‑Mgmt Gateway OK-030,Building Controls,5105.92,456.9,4
+LED Tube KU-759,Lighting,909.76,336.6,4
+Inverter AC Unit GG-112,Cooling,11443.43,4043.7,3
+Roof Insulation Kit SM-641,Insulation,1591.36,1884.9,5
+High‑efficiency Motor LL-865,Pumps & Motors,5905.66,1627.1,2
+Occupancy Sensor EK-376,Building Controls,7767.89,960.2,3
+High‑efficiency Motor VK-155,Pumps & Motors,9093.18,1799.8,5
+High‑bay LED YF-780,Lighting,2180.35,487.3,4
+VRF System HG-143,Cooling,15400.27,3230.9,5
+High‑efficiency Motor OU-385,Pumps & Motors,10296.34,487.0,2
+Solar Panel QB-963,Solar PV,46644.87,8732.6,4
+Heat Pump CF-756,Heating,13841.27,3931.8,4
+Solar Water Heater NI-014,Miscellaneous,9636.41,113.8,2
+Micro‑inverter IU-530,Solar PV,44987.67,4729.1,3
+Roof Insulation Kit VC-866,Insulation,3718.78,3943.7,3
+Heat‑recovery Ventilator OI-447,Ventilation,8001.41,442.3,4
+Variable‑speed Pump TW-440,Pumps & Motors,4792.35,912.4,1
+Smart Power Strip UN-311,Miscellaneous,6871.66,319.2,3
+Electric Vehicle Charger PP-386,Miscellaneous,8230.51,438.3,3
+Solar Water Heater CD-131,Miscellaneous,7087.65,331.0,4
+Smart Power Strip OK-459,Miscellaneous,9341.6,145.3,2
+Occupancy Sensor DI-403,Building Controls,869.0,250.2,4
+Efficient Exhaust Fan KM-741,Ventilation,7306.3,1234.6,2
+Roof Insulation Kit HN-147,Insulation,11839.91,2424.0,3
+Smart Power Strip GO-957,Miscellaneous,7720.04,292.8,2
+Variable‑speed Pump TQ-280,Pumps & Motors,5416.6,2196.8,1
+Smart Thermostat UG-853,Building Controls,5917.43,796.0,2
+Smart Power Strip UV-855,Miscellaneous,6170.15,142.6,3
+Wall Insulation Panel GW-960,Insulation,14497.42,3249.9,3
+Wall Insulation Panel DW-278,Insulation,11779.89,2866.8,4
+VRF System QQ-307,Cooling,23875.43,2372.5,3
+Micro‑inverter YI-077,Solar PV,45470.32,4775.9,5
+Solar Panel UK-984,Solar PV,23434.72,3412.0,5
+Smart Power Strip OM-360,Miscellaneous,1445.96,481.1,4
+LED Panel Light YE-494,Lighting,2490.96,550.2,3
+Evaporative Cooler CJ-066,Cooling,4872.36,3352.7,2
+Variable‑speed Pump SA-412,Pumps & Motors,10839.78,320.4,3
+Condensing Boiler SM-208,Heating,9128.06,3889.2,3
+Evaporative Cooler UT-191,Cooling,17558.47,637.3,2
+Occupancy Sensor SQ-146,Building Controls,6991.73,195.4,1
+Inverter AC Unit PJ-931,Cooling,10839.64,970.7,5
+Solar Water Heater SH-908,Miscellaneous,8820.36,163.0,5
+Heat‑recovery Ventilator TH-089,Ventilation,6544.79,346.6,4
+Smart Power Strip NZ-991,Miscellaneous,8677.73,362.6,3
+Heat‑recovery Ventilator TY-700,Ventilation,4031.6,251.8,1
+High‑efficiency Motor QN-470,Pumps & Motors,8975.34,1655.3,3
+Condensing Boiler CX-913,Heating,28457.49,6461.0,1
+Wall Insulation Panel LY-229,Insulation,3065.82,2643.0,3
+Wall Insulation Panel TT-177,Insulation,3711.74,3835.6,5
+Efficient Exhaust Fan ED-728,Ventilation,9531.45,238.2,4
+Wall Insulation Panel BS-504,Insulation,6361.67,2248.6,5
+Evaporative Cooler EU-861,Cooling,23130.67,611.3,1
+Efficient Refrigerator MJ-198,Appliances,12175.13,926.9,4
+Induction Cooker GX-385,Appliances,4589.52,722.3,1
+Inverter AC Unit UZ-904,Cooling,10981.13,4317.3,3
+Radiant Heater LJ-277,Heating,14703.36,3893.8,4
+Dishwasher A+++ Class XT-204,Appliances,6577.46,444.5,1
+Solar Panel TJ-732,Solar PV,59088.25,4474.6,3
+VRF System HB-284,Cooling,27232.82,2617.2,1
+Smart Power Strip NQ-350,Miscellaneous,6793.22,121.9,3
+Double‑Glazed Window YK-834,Insulation,4653.75,3802.4,3
+Smart Power Strip EE-445,Miscellaneous,9664.03,164.2,3
+Occupancy Sensor WC-837,Building Controls,5143.78,336.5,3

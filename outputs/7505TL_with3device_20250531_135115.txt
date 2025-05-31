@@ -1,0 +1,12 @@
+
+================ RESULTS ================
+ • Condensing Boiler UW-372 (₺5102.61, 6219.3 kWh/yr, score 5)
+ • Energy‑Mgmt Gateway NQ-572 (₺811.26, 488.1 kWh/yr, score 5)
+ • Roof Insulation Kit SM-641 (₺1591.36, 1884.9 kWh/yr, score 5)
+-----------------------------------------
+Total devices:     3
+Total cost:        ₺7505.23
+Energy saved:      8592.3 kWh / year
+Σ(energy×score):   42961.5
+=========================================
+

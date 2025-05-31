@@ -1,0 +1,21 @@
+
+================ RESULTS ================
+ • VRF System XW-266 (₺7550.24, 3955.0 kWh/yr, score 5)
+ • Wall Insulation Panel BT-469 (₺3950.10, 2548.7 kWh/yr, score 5)
+ • Condensing Boiler UW-372 (₺5102.61, 6219.3 kWh/yr, score 5)
+ • Wall Insulation Panel KD-934 (₺2812.09, 3605.4 kWh/yr, score 3)
+ • VRF System MP-902 (₺7462.27, 4737.0 kWh/yr, score 5)
+ • Energy‑Mgmt Gateway NQ-572 (₺811.26, 488.1 kWh/yr, score 5)
+ • Smart Street Lamp SU-518 (₺693.54, 562.3 kWh/yr, score 3)
+ • Radiant Heater XH-621 (₺11127.42, 6360.3 kWh/yr, score 5)
+ • LED Tube KT-796 (₺1282.76, 596.1 kWh/yr, score 4)
+ • Roof Insulation Kit SM-641 (₺1591.36, 1884.9 kWh/yr, score 5)
+ • Roof Insulation Kit VC-866 (₺3718.78, 3943.7 kWh/yr, score 3)
+ • Wall Insulation Panel TT-177 (₺3711.74, 3835.6 kWh/yr, score 5)
+-----------------------------------------
+Total devices:     12
+Total cost:        ₺49814.17
+Energy saved:      38736.4 kWh / year
+Σ(energy×score):   176863.1
+=========================================
+
